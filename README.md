@@ -2,6 +2,8 @@
 
 NewsApp is a simple web application built with HTML, CSS, and JavaScript that allows users to read the latest news articles from various categories, such as business, technology, entertainment, and more. The app uses the News API to fetch news data and display it in a user-friendly manner.
 
+Check out:-t https://rutiktorambe.github.io/NewsApp/
+
 
 ## Features
 
