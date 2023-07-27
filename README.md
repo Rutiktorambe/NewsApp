@@ -4,6 +4,12 @@ NewsApp is a simple web application built with HTML, CSS, and JavaScript that al
 
 Check out:-t https://rutiktorambe.github.io/NewsApp/
 
+About API:-https://newsapi.org/docs
+
+# Note:-
+- If API no works change api from  js file  -or-
+- Clone the Repo. and run offline.
+
 
 ## Features
 
@@ -11,6 +17,7 @@ Check out:-t https://rutiktorambe.github.io/NewsApp/
 - Categorize news articles based on topics like business, technology, entertainment, etc.
 - Display article title, description, and source.
 - Click on an article to read the full story on the source website.
+- Search Functionality is also therir.
 
 ## Technologies Used
 
