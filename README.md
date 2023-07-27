@@ -8,7 +8,7 @@ About API:-https://newsapi.org/docs
 
 # Note:-
 - If API not works change api from  js file  -or-
-- Clone the Repo. and run offline.
+- Clone the Repo. and run locally.
 
 
 ## Features
