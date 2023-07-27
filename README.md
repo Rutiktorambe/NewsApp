@@ -7,7 +7,7 @@ Check out:-t https://rutiktorambe.github.io/NewsApp/
 About API:-https://newsapi.org/docs
 
 # Note:-
-- If API no works change api from  js file  -or-
+- If API not works change api from  js file  -or-
 - Clone the Repo. and run offline.
 
 
