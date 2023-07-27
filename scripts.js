@@ -1,6 +1,6 @@
 // If any of these not working 
-// const API_KEY = "1d3a0eefa97b499d8fbc4ee93eeb40b7"; 
-const API_KEY = "0d6d22fea6634071bcf315ac831df71e";
+const API_KEY = "3d2b16f542d944f2aa28246a499397f3"; 
+// const API_KEY = "0d6d22fea6634071bcf315ac831df71e";
 
 const url = "https://newsapi.org/v2/everything?q=";
 
