@@ -24,4 +24,5 @@ About API:-https://newsapi.org/docs
 - HTML
 - CSS
 - JavaScript
+- Tailwind css
 - News API
